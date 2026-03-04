@@ -1,0 +1,27 @@
+body{
+        background-color: black
+    }
+        .main{
+            background-color:  #3c3c3c;
+            width: 1150px;
+            height:500px;
+            margin: 50px;
+            border-radius: 18px;  
+        }
+       .image{
+        display: flex;
+        margin: 15px;
+        padding: 10px;
+        justify-content: space-around;
+        
+       }
+       .image h3{
+        margin: 3px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 600;
+        position: relative;
+        top:-30px;
+        width:fit-content;
+        height: fit-content;
+        color:white;
+       }
